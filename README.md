@@ -6,7 +6,7 @@ A 150 word description of the project idea and goals. What’s the motivation be
 # The evolution of the gender gap in the film industry
 Our goal with this work is to analyze the evolution in time of sexism and women discrimination in the film industry, which is known as one of the least women-friendly industry (add numbers...). 
 The #MeToo movement, known for his apogy in 2017 with the complaints of many known actresses about the sexism and assaults in the film industry, appeared in reality in 2007. It made less noise back then, but it was present and in many fields. The premices of free speech and liberation about the harrasment, assault and rape culture women were suffering of, were launched. 
-We want to tell the story of those women, particularly in the film industry, who suffer from daily discrimination. We want to have a look at the gender gap and how it evolves with time, especially after the appearance of the #MeToo movement. Had this movement a real impact on the situation? (+15à mots)
+We want to tell the story of those women, particularly in the film industry, who suffer from daily discrimination. We want to have a look at the gender gap and how it evolves with time, especially after the appearance of the #MeToo movement. Had this movement a real impact on the situation? (+150 mots)
 
 
 ## Research Questions
