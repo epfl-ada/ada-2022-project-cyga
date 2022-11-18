@@ -9,6 +9,7 @@
 6. [Organisation within the team](#Organisation_within_the_team)
 7. [Questions for the TAs](#Questions)
 
+
 ## Abstract <a name="Abstract"></a>
 
 # The evolution of the gender gap in the film industry
@@ -16,12 +17,10 @@ Our goal with this work is to analyze the evolution in time of sexism and women 
 
 
 ## Research Questions <a name="Research_questions"></a>
-A list of research questions you would like to address during the project.
 
-
-Can we assess gender discrimination from a financial aspect: through budget, box office revenues and salaries? Is it thrustworthy?
-
-Are the types of roles attributed to women on screen a representation of the discrimination they undergo? How do the types of roles attributed to women evolve in time? Can this evolution attest of a decrease/increase in the gender gap? 
+Can we assess gender discrimination from a financial aspect: through budget, box office revenues and salaries? Is it trustworthy?
+Are the types of roles attributed to women on screen a representation of the discrimination they undergo ? How did the types of roles attributed to women evolve in time ? Can this evolution attest to a decrease/increase in the gender gap ?
+Can the summary/plot of a movie tell something about discrimination in the movie industry ? If so, how does the discrimination appear in summaries ? 
 
 
 ## Proposed additional datasets (if any) <a name="Proposed_additional_datasets_and_files"></a>
