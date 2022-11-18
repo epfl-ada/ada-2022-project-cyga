@@ -1,7 +1,15 @@
 # ada-2022-project-cyga
 
-## Abstract
-A 150 word description of the project idea and goals. What’s the motivation behind your project? What story would you like to tell, and why?
+## Table of Contents
+1. [Abstract](#Abstract)
+2. [Research questions](#Research_questions)
+3. [Proposed additional datasets and files](#Proposed_additional_datasets_and_files)
+4. [Methods](#Methods)
+5. [Proposed timeline](#Proposed_timeline)
+6. [Organisation within the team](#Organisation_within_the_team)
+7. [Questions for the TAs](#Questions)
+
+## Abstract <a name="Abstract"></a>
 
 # The evolution of the gender gap in the film industry
 Our goal with this work is to analyze the evolution in time of sexism and women discrimination in the film industry, which is known as one of the least women-friendly industry (add numbers...). 
@@ -9,7 +17,7 @@ The #MeToo movement, known for his apogy in 2017 with the complaints of many kno
 We want to tell the story of those women, particularly in the film industry, who suffer from daily discrimination. We want to have a look at the gender gap and how it evolves with time, especially after the appearance of the #MeToo movement. Had this movement a real impact on the situation? (+150 mots)
 
 
-## Research Questions
+## Research Questions <a name="Research_questions"></a>
 A list of research questions you would like to address during the project.
 
 
@@ -18,10 +26,10 @@ Can we assess gender discrimination from a financial aspect: through budget, box
 Are the types of roles attributed to women on screen a representation of the discrimination they undergo? How do the types of roles attributed to women evolve in time? Can this evolution attest of a decrease/increase in the gender gap? 
 
 
-## Proposed additional datasets (if any)
+## Proposed additional datasets (if any) <a name="Proposed_additional_datasets_and_files"></a>
 List the additional dataset(s) you want to use (if any), and some ideas on how you expect to get, manage, process, and enrich it/them. Show us that you’ve read the docs and some examples, and that you have a clear idea on what to expect. Discuss data size and format if relevant. It is your responsibility to check that what you propose is feasible.
 
-## Methods
+## Methods <a name="Methods"></a>
 First of all, we need to check and clean the data, and it would be very helpful to proceed to an exploratory sanity check.
 
 In order to evaluate the gender gap in the film industry, we will have a look at 3 different axis.
@@ -31,14 +39,14 @@ Finally, tropes and stereotypes will be analyzed too, from the adequate dataset,
 
 We would of course like to see a positive evolution in the gender gap, in the movie industry and else where. Did the MeToo movement really impact the situation? We could compare the data before 2007, between 2007 and 2016, and after 2017 to see if the different steps of the movement made things change. As we don't have any data after 2016, we will compare the data before and after 2007.
 
-## Proposed timeline
+## Proposed timeline <a name="Proposed_timeline"></a>
 - Milestone 1: doing
 - Milestone 2: doing
 - Milestone 3: week 12-13
 - Milestone 4: week 14
 
 
-## Organization within the team
+## Organisation within the team <a name="Organisation_within_the_team"></a>
 A list of internal milestones up until project Milestone P3.
 
 Milestone 1:
@@ -61,7 +69,7 @@ Milestone 4:
 3) Data story and website
 
 
-## Questions for TAs (optional)
+## Questions for the TAs <a name="Questions"></a>
 Add here any questions you have for us related to the proposed project.
 
 
