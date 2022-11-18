@@ -42,7 +42,7 @@ We would of course like to see a positive evolution in the gender gap, in the mo
 A list of internal milestones up until project Milestone P3.
 
 Milestone 1:
-1) Clean data
+1) Clean data: global cleaning and affine cleaning in function of what we want to do
 2) Exploratory sanity check
 3) Think about methods and failure possibilities
 
