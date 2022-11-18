@@ -14,7 +14,7 @@
 # The evolution of the gender gap in the film industry
 Our goal with this work is to analyze the evolution in time of sexism and women discrimination in the film industry, which is known as one of the least women-friendly industries: [almost 9 in 10 films (89%) have more men in their 10 or so most senior roles, both acting and non-acting] [1]. The #MeToo movement, known for its apogee in 2017 with the complaints of many known actresses about the sexism and assaults in the film industry, appeared in reality in 2007. It made less noise back then, but it was present and in many fields. The premises of free speech and liberation about the harassment, assault and rape culture women were suffering of, were launched. We want to tell the story of those women, particularly in the film industry, who suffer from daily discrimination. We want to have a look at the gender gap and how it has evolved in time, especially after the appearance of the #MeToo movement? Finally, the goal is to assess whether this movement has had a real impact on the situation.
 
-[1]https://www.bbc.com/culture/article/20180508-the-data-that-reveals-the-film-industrys-woman-problem
+[1]: https://www.bbc.com/culture/article/20180508-the-data-that-reveals-the-film-industrys-woman-problem
 
 ## Research Questions <a name="Research_questions"></a>
 A list of research questions you would like to address during the project.
