@@ -104,13 +104,13 @@ def group_genres(genre):
 
 def genre_pronoun(row):
     """
-    Assigns a gender to the movie in function of the highest pronoun occurence.
+    Assigns a gender to the movie in function of the highest pronoun occurrence.
     :param row: dataframe row
     :return: string
     """
-    if row['fem_occurence'] > row['masc_occurence']:
+    if row['fem_occurrence'] > row['masc_occurrence']:
         return 'F'
-    elif row['fem_occurence'] < row['masc_occurence']:
+    elif row['fem_occurrence'] < row['masc_occurrence']:
         return 'M'
     else:
         return 'N'
