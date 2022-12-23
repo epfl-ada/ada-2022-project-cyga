@@ -39,7 +39,7 @@ Additional dataset#2 : The Academy Awards nominees (oscar_nominees.csv), 1929-20
 
 Additional dataset#3 : The Academy Awards nominees and winners (oscar_nom_win.csv), 1929-2020 dataset contains the official record of past Academy Award nominees and whether the nominees won an award for a specific category. This time, the genre is not included. The final goal is to merge this dataset with the previous one in order to perform some analyses on both datasets.
 
-Additional dataset#3 : The Bechdel dataset (Bechdel.csv) contains the Bechdel score for a variety of movies. The Bechdel test, also known as the Bechdel-Wallace test, is a measure of the representation of women in fiction. It consists of three criteria:
+Additional dataset#4 : The Bechdel dataset (Bechdel.csv) contains the Bechdel score for a variety of movies. The Bechdel test, also known as the Bechdel-Wallace test, is a measure of the representation of women in fiction. It consists of three criteria:
 The work must have at least two women in it who talk to each other.
 The conversation must be about something other than a man.
 The women must have names.
@@ -48,7 +48,9 @@ It has since become a widely used measure of gender representation in media. How
 
 
 ## Methods <a name="Methods"></a>
-Our notebook is subdivided into different axes. We are trying to answer the question asked before. 
+All our code and analysis on the datasets can be found on 'Milestone_3.ipynb'. The file 'utils.py' reunites all the functions we used in the code.
+
+Our notebook is subdivided into different axes. We are trying to answer the followig questions, mainly working around women representation on screen and on set. 
 
 1. Is there a pay gap and financial indices which could attest to potential gender discrimination in the movie industry?
 
