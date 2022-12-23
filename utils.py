@@ -1,15 +1,19 @@
 import ast
 import re
 import nltk
+import tqdm
+import string
 
 import matplotlib.pyplot as plt
 import json as js
 import pandas as pd
 import seaborn as sns
+import xml.etree.ElementTree as ET
 
 from nltk.corpus import stopwords
 from fuzzywuzzy import fuzz
 from scipy.stats import chi2_contingency
+from tqdm import tqdm
 
 
 def dict_to_cols(row): 
